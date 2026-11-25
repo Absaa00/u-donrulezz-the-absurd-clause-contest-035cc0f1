@@ -1,0 +1,15 @@
+# Absurd Clause Contest — local-only ignores (2026-11-26 build)
+# Keep the repo clean: kit downloads, bundles and grader outputs stay local.
+kit/
+kit.zip
+bundle.tar.gz
+transcripts.tar.gz
+*.tar.gz
+__pycache__/
+*.pyc
+.pytest_cache/
+output/
+entry.txt
+run1.txt
+run2.txt
+.DS_Store
